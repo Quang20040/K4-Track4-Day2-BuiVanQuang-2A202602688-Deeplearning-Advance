@@ -1,6 +1,7 @@
 .DS_Store
 # dataset and model weights must not be committed (see README.md)
 *.zip
+!submission_*.zip
 *.pt
 *.pth
 *.ckpt
